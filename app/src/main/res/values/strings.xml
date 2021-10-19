@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="checkin">Check In</string>
+    <string name="chekcout">Check Out</string>
+    <string name="button">Button</string>
+    <string name="details">DETAILS</string>
+    <string name="export">Export</string>
+    <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="time_format">HH:mm:ss</string>
+    <string-array name="planets_array2">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+
+</resources>
